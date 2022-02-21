@@ -1,0 +1,33 @@
+#container {
+    display: flex;
+    
+  }
+
+  #sidebar {
+    flex: 2;
+    padding: 15px;
+  }
+
+  #main {
+    flex: 8;
+    
+    
+
+  }
+
+  #main div{
+    display: flex;
+    margin: 15px;
+  }
+
+  #main img {
+    width: 50%;
+  }
+
+  #sidebar div{
+      margin-top: 20px;
+  }
+
+  #sidebar input{
+      margin-top: 20px;
+  }
